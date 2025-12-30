@@ -8,6 +8,7 @@
 
 /* Begin PBXFileReference section */
 		4708ADF22EF426B5004799F0 /* LIDAR_YANIK.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LIDAR_YANIK.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4737EFAF2EF5612D003B9D1E /* Untitled.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Untitled.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -32,6 +33,7 @@
 		4708ADE92EF426B5004799F0 = {
 			isa = PBXGroup;
 			children = (
+				4737EFAF2EF5612D003B9D1E /* Untitled.swift */,
 				4708ADF42EF426B5004799F0 /* LIDAR_YANIK */,
 				4708ADF32EF426B5004799F0 /* Products */,
 			);
@@ -256,6 +258,9 @@
 				DEVELOPMENT_TEAM = Q93K7YWZ28;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "";
+				INFOPLIST_KEY_LSApplicationCategoryType = "";
+				INFOPLIST_KEY_NSCameraUsageDescription = "Uygulama, LiDAR sensörü ve kamera verilerini kullanarak yüzey analizi yapmak ve nesnelerin boyutlarını hassas bir şekilde ölçmek için kamera erişimine ihtiyaç duyar.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -266,6 +271,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
+				NEW_SETTING = "";
 				PRODUCT_BUNDLE_IDENTIFIER = "edu.firat.LIDAR-YANIK";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
@@ -288,6 +294,9 @@
 				DEVELOPMENT_TEAM = Q93K7YWZ28;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "";
+				INFOPLIST_KEY_LSApplicationCategoryType = "";
+				INFOPLIST_KEY_NSCameraUsageDescription = "Uygulama, LiDAR sensörü ve kamera verilerini kullanarak yüzey analizi yapmak ve nesnelerin boyutlarını hassas bir şekilde ölçmek için kamera erişimine ihtiyaç duyar.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -298,6 +307,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
+				NEW_SETTING = "";
 				PRODUCT_BUNDLE_IDENTIFIER = "edu.firat.LIDAR-YANIK";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
